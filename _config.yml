@@ -20,11 +20,11 @@ disqus: MissFan2
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url: http://missfan2.github.io/1234567
+url: http://missfan2.github.io
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
-baseurl: /gh-pages
+baseurl: /1234567
 
 # Change this to your google analytics ID
 google_analytics:
